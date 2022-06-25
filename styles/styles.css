@@ -10,7 +10,7 @@
 }
 
 .header {
-    background: url(/img/img1.png) no-repeat center / cover;
+    background: url(../img/img1.png) no-repeat center / cover;
     height: 324px;
     width: 100%;
 }
@@ -26,11 +26,12 @@
 }
 
 .nav-link {
-    font-size: 12px;
-    margin-left: 80px;
+    font-size: 17px;
+    margin-left: 10px;
     padding-left: 10px;
     color: #fff;
-    font-family: poppins semibold;
+    font-family: poppins;
+    font-weight: bold;
 }
 
 .nav-link:hover {
@@ -56,10 +57,6 @@
     font-family: poppins bold;
     margin-top: 40px;
     font-weight: 900;
-}
-
-.logo:hover {
-    cursor: pointer;
 }
 
 .contact {
@@ -94,6 +91,7 @@
     height: 286px;
     margin-top: 80px;
     width: 100%;
+    background: url(/img/Rectangle\ 827.png);
 }
 
 
