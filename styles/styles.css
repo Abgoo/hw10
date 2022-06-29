@@ -216,3 +216,52 @@
     justify-content: space-between;
     margin-top: 60px;
 }
+
+.flex-footer {
+    background-color: #121212;
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+    height: 390px;
+    align-items: center;
+}
+
+.left-box1 {
+    width: 260px;
+    height: 191px;
+}
+
+.links {
+    width: 103px;
+    height: 155px;
+}
+
+.privacy {
+    width: 78px;
+    height: 155px;
+}
+
+.contactt {
+    width: 198px;
+    height: 145px;
+}
+
+.bluee {
+    color: #5863F8;
+    margin-top: 8px;
+}
+
+.whitee {
+    font-size: 20px;
+    color: white;
+    font-weight: 1000;
+}
+
+.bigtext {
+    margin-top: 20px;
+}
+
+.whitee2 {
+    margin-top: 20px;
+    color: white;
+}
